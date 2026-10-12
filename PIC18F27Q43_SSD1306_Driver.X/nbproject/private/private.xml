@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="1">
+        <file>
+            <url>disassembly/listing.disasm</url>
+            <bookmark id="1">
+                <name/>
+                <line>1056</line>
+                <key/>
+            </bookmark>
+        </file>
+    </editor-bookmarks>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/kojim/MPLABXProjects/18F27Q43_SSD1306_TEST2.X/SSD1306BuffFunc.c</file>
+            <file>file:/C:/Users/kojim/MPLABXProjects/18F27Q43_SSD1306_TEST2.X/SSD1306.c</file>
+            <file>file:/C:/Users/kojim/MPLABXProjects/18F27Q43_SSD1306_TEST2.X/SPIFlash_Font.h</file>
+            <file>file:/C:/Users/kojim/MPLABXProjects/18F27Q43_SSD1306_TEST2.X/init.h</file>
+            <file>file:/C:/Users/kojim/MPLABXProjects/18F27Q43_SSD1306_TEST2.X/SSD1306.h</file>
+            <file>file:/C:/Users/kojim/MPLABXProjects/18F27Q43_SSD1306_TEST2.X/SPIFlash_Font.c</file>
+            <file>file:/C:/Users/kojim/MPLABXProjects/18F27Q43_SSD1306_TEST2.X/font.h</file>
+            <file>file:/C:/Users/kojim/MPLABXProjects/18F27Q43_SSD1306_TEST2.X/font.c</file>
+            <file>file:/C:/Users/kojim/MPLABXProjects/18F27Q43_SSD1306_TEST2.X/SSD1306_Parameter.h</file>
+            <file>file:/C:/Users/kojim/MPLABXProjects/18F27Q43_SSD1306_TEST2.X/SSD1306_TEST_MAIN.c</file>
+        </group>
+    </open-files>
+</project-private>
