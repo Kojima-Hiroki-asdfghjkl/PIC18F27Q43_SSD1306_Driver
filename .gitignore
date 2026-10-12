@@ -1,0 +1,15 @@
+# --- MPLAB X IDE ---
+# ビルド生成物やキャッシュ、マシン依存ファイルを除外
+nbproject/private/
+build/
+dist/
+debug/
+=.theMLT*
+*.hex
+*.elf
+*.cof
+*.map
+*.sym
+*.dis
+*.hex
+.generated_files/
